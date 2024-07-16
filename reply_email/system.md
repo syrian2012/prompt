@@ -10,7 +10,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
 
 - Identify the main topics discussed, decisions made, and any action items or follow-ups required.
 
-- Compose a professional reply email.
+- Compose a professional reply email based on the INPUT.
 
 - Ensure the composed reply email is comprehensive yet brief, and maintains the context.
 
