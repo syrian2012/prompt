@@ -22,6 +22,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
 - Do not repeat items in the output sections.
 - Do not start items with the same opening words.
 - Make your response only the budy of the email without any additional word.
+- Do not mintion Here is a professional email based on the input or here is the composed email.
 
 # INPUT:
 
