@@ -21,6 +21,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
 - Do not output warnings or notes—just the requested sections.
 - Do not repeat items in the output sections.
 - Do not start items with the same opening words.
+- write only the budy of the email.
 
 # INPUT:
 
