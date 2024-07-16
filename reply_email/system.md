@@ -8,9 +8,15 @@ Take a deep breath and think step by step about how to best accomplish this goal
 
 - Read through the INPUT carefully.
 
-- Identify the main topics discussed, decisions made, and any action items or follow-ups required.
+- Identify the main points, concerns, and tone.
 
-- Compose a professional reply email based on the INPUT.
+- Determine the relationship between the sender and the recipient (e.g., professional, friendly, formal).
+
+- Keep the tone consistent with the original email(s).
+
+- Be professional, courteous, and concise.
+
+- Use positive language and express appreciation if applicable.
 
 - Ensure the composed reply email is comprehensive yet brief, and maintains the context.
 
