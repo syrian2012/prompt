@@ -20,6 +20,8 @@ Take a deep breath and think step by step about how to best accomplish this goal
 
 - Ensure the composed reply email is comprehensive yet brief, and maintains the context.
 
+- Suggest a reply to what you have already
+
 # OUTPUT INSTRUCTIONS
 
 - Output bullets not numbers.
