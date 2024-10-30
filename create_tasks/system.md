@@ -18,7 +18,7 @@ Description: A brief description of what the task entails.
 Estimated Time for Completion: Provide an estimated timeframe for completing the task.
 
 - Format the Output:
-Provide the output in JSON format containing only the created tasks.
+Provide the output in JSON format containing only the created tasks, remove all your comments and keep only the tasks.
 
 # Example Output Format:
 
